@@ -26,7 +26,7 @@ Projeto desenvolvido como desafio final da disciplina **Desenvolvimento Back-end
 - MySQL rodando
 - Git (opcional)
 
----
+
 
 ### 📁 Clone o repositório
 
@@ -35,7 +35,6 @@ git clone https://github.com/seu-usuario/desafio-final-backend.git
 cd desafio-final-backend
 ```
 ### ⚙️ Configure o ambiente
-Crie o arquivo .env na raiz:
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=suasenha
@@ -105,13 +104,14 @@ GET	/clientes	✅	Listar clientes (com cache, PROTEGIDO)
 POST /clientes	✅	Criar cliente (invalida cache, PROTEGIDO)
 PUT	/clientes/:id	✅	Atualizar cliente (PROTEGIDO)
 DELETE /clientes/:id	✅	Deletar cliente (PROTEGIDO)
+---
 
 ## 👨‍🏫 Professor
 Luccas Rafael
 📧 luccasrm@unilavras.edu.br
-
+---
 ## 🏁 Créditos
 Desenvolvido por: 
-*Hélio Ferreira*
-*Guilherme Salatiel*
+*Hélio Ferreira*,
+*Guilherme Salatiel*,
 *Oscar Lara*
