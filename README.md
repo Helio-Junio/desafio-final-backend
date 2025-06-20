@@ -92,18 +92,18 @@ frontend/
 └── css/  
     └── style.css  
 
-## 📝 Endpoints da API  
-GET / ❌ Status da API 
-POST /login ❌ Login e geração de token 
-POST /logout ❌ Logout do token (não ativo) 
-GET /usuarios ✅ Listar usuários (PROTEGIDO) 
-POST /usuarios ❌ Criar novo usuário 
-GET /produtos ❌ Listar produtos 
-POST /produtos ❌ Criar produto 
-GET /clientes ✅ Listar clientes (com cache, PROTEGIDO) 
-POST /clientes ✅ Criar cliente (invalida cache, PROTEGIDO) 
-PUT /clientes/:id ✅ Atualizar cliente (PROTEGIDO) 
-DELETE /clientes/:id ✅ Deletar cliente (PROTEGIDO)
+## 📝 Endpoints da API
+- GET   /   ❌ Status da API  
+- POST   /login   ❌ Login e geração de token  
+- POST   /logout   ❌ Logout do token (não ativo)  
+- GET   /usuarios   ✅ Listar usuários (PROTEGIDO)  
+- POST   /usuarios   ❌ Criar novo usuário  
+- GET   /produtos   ❌ Listar produtos  
+- POST   /produtos   ❌ Criar produto  
+- GET   /clientes   ✅ Listar clientes (com cache, PROTEGIDO)  
+- POST   /clientes   ✅ Criar cliente (invalida cache, PROTEGIDO)  
+- PUT   /clientes/:id   ✅ Atualizar cliente (PROTEGIDO)  
+- DELETE   /clientes/:id   ✅ Deletar cliente (PROTEGIDO)
 ---
 
 ## 👨‍🏫 Professor
