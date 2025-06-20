@@ -105,9 +105,8 @@ frontend/
 - PUT   /clientes/:id   ✅ Atualizar cliente (PROTEGIDO)  
 - DELETE   /clientes/:id   ✅ Deletar cliente (PROTEGIDO)
 ---
-
 ## 👨‍🏫 Professor
-Luccas Rafael  
+- *Luccas Rafael*  
 📧 luccasrm@unilavras.edu.br
 ---
 ## 🏁 Créditos
